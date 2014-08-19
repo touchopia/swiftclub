@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B74A72D7-9B86-4E28-83D9-8DD089B6A9C6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Counter</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7B83FDC79F46F685FB9EA1112A58D93D4798754A</key>
+		<string>https://github.com/touchopia/swiftclub.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SourceCode/Counter/Counter.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7B83FDC79F46F685FB9EA1112A58D93D4798754A</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/touchopia/swiftclub.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7B83FDC79F46F685FB9EA1112A58D93D4798754A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7B83FDC79F46F685FB9EA1112A58D93D4798754A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>swiftclub</string>
+		</dict>
+	</array>
+</dict>
+</plist>
